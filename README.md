@@ -1,4 +1,4 @@
-[![MasterHead](https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png)]
+![MasterHead](https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png)
 <h1 align="center">Hi 👋, I'm Meirkhan</h1>
 <h3 align="center">A passionate mobile developer from Kazakhstan.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
